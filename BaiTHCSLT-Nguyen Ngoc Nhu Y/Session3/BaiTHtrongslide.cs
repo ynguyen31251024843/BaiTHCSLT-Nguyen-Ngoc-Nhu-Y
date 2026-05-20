@@ -6,7 +6,7 @@ namespace BaiTHCSLT_Nguyen_Ngoc_Nhu_Y.Exercises3
 {
     internal class BaiTHtrongslide
     {
-        public static void Main(string[] args)
+        public static void Mainy(string[] args)
         {
             Console.OutputEncoding = System.Text.Encoding.UTF8;
             //ex01();
