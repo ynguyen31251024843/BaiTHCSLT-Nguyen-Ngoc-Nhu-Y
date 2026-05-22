@@ -4,7 +4,7 @@ namespace BaiTHCSLT_Nguyen_Ngoc_Nhu_Y.Session4
 {
     internal class Bài_tập__
     {
-        public static void Main(string[] args)
+        public static void Mainy1(string[] args)
         {
             //ex01();
             //ex02();
