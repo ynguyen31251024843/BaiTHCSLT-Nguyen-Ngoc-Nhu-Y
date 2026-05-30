@@ -6,6 +6,7 @@
     <RootNamespace>BaiTHCSLT_Nguyen_Ngoc_Nhu_Y</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <StartupObject>BaiTHCSLT_Nguyen_Ngoc_Nhu_Y.Session6.Bài_tập_string</StartupObject>
   </PropertyGroup>
 
 </Project>

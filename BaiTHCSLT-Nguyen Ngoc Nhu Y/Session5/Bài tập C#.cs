@@ -6,7 +6,7 @@ namespace BaiTHCSLT_Nguyen_Ngoc_Nhu_Y.Session5
 {
     internal class Bài_tập_C_
     {
-        public static void Main(string[] args)
+        public static void Mainy6(string[] args)
         {
             //ex01();
             //ex02();
@@ -17,7 +17,7 @@ namespace BaiTHCSLT_Nguyen_Ngoc_Nhu_Y.Session5
             //ex07();
             //ex08();
             //ex09();
-            ex10();
+            //ex10();
         }
 
         //1.to calculate the average value of array elements.
@@ -410,7 +410,7 @@ namespace BaiTHCSLT_Nguyen_Ngoc_Nhu_Y.Session5
             if (kq == -1)
                 Console.WriteLine("Khong tim thay");
             else
-                Console.WriteLine($"Co xuat hien trong cau");
+                Console.WriteLine("Co xuat hien trong cau");
         }
     }
 }
