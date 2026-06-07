@@ -4,9 +4,9 @@ using System.Text;
 
 namespace BaiTHCSLT_Nguyen_Ngoc_Nhu_Y.Session6
 {
-    internal class Bài_tập_string
+    internal class Bài_tập_
     {
-        public static void Main(string[] args)
+        public static void Main14(string[] args)
         {
             //ex01();
             //ex02();
@@ -21,7 +21,7 @@ namespace BaiTHCSLT_Nguyen_Ngoc_Nhu_Y.Session6
             //ex10();
             //ex11();
             //ex12();
-            ex13();
+            //ex13();
         }
         //1. Viết chương trình C# để nhập một chuỗi và in chuỗi đó ra.
         static void ex01()
